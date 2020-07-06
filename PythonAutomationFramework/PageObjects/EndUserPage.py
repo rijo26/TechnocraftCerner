@@ -1,9 +1,4 @@
 import inspect
-
-import allure
-from allure_commons.types import AttachmentType
-from selenium.webdriver.common.by import By
-
 from Utilities.BaseClass import BaseClass
 
 

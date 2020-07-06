@@ -1,8 +1,5 @@
 import inspect
 import time
-
-import allure
-from allure_commons.types import AttachmentType
 from Utilities.BaseClass import BaseClass
 
 
